@@ -1,4 +1,11 @@
 
+
+###Strike price:
+1. the price fixed by the seller of a security after receiving bids in a tender offer, typically for a sale of bonds or a new stock market issue.
+2. the price at which a put or call option can be exercised.
+###put or call options
+1. p
+
 # Investment Strategies.
 
 Tired of guessing, goofing and mistakes? Well need to strategies...
