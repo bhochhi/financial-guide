@@ -1,4 +1,8 @@
 
+##Notes:
+* On the base of [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), the price of assets in the market accurately reflect their true underlying value, according to all presently available information. 
+
+
 
 ###Strike price:
 1. the price fixed by the seller of a security after receiving bids in a tender offer, typically for a sale of bonds or a new stock market issue.
