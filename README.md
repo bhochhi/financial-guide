@@ -4,7 +4,8 @@
 
 * __The average, traditional retail investor(like me) with limited time, money and access to information doesn't really stand a chance in the market__. The Statistics supporting this [position](http://money.usnews.com/money/personal-finance/mutual-funds/articles/2012/10/12/study-active-funds-consistently-fail-to-beat-benchmarks). That article details how 90% of professional mutual fund managers couldn't beat the performance of the S&P 500.
 * Market obeys the [Pareto Principle](http://en.wikipedia.org/wiki/Pareto_principle), means the majority of the money is being moved by minority of participants(Wall Shreet). That means average investor doesn't matter much and they are at huge disadvantage against who trade full-time.
-* Those people who actively trade are of course at the much higher risk of failing to beat the market than those who attempt to simply match it.
+* __Those people who actively trade are of course at the much higher risk of failing to beat the market than those who attempt to simply match it__. Based on the effort and time you spend, even if you beat the market, you have to beat by high percentage, else it doesn't worth it.
+* Do Asset allocation and Modern portfolio theory. 
 * 
 
 
