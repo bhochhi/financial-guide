@@ -1,6 +1,9 @@
 
-##Notes:
-* On the base of [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), the price of assets in the market accurately reflect their true underlying value, according to all presently available information. 
+##Notes from Sanjay Paul's Answer.
+* On the base of [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis), the price of assets in the market accurately reflect their true underlying value, according to all presently available information. And Sanjay Paul interpreted this as **active trading is the equivalent of gambling** since all publicly available information has already been incorporated into the price you pay, you ca't possibly make a more accurate prediction than what the market has already achieved.
+
+* __The average, traditional retail investor(like me) with limited time, money and access to information doesn't really stand a chance in the market__. The Statistics supporting this [position](http://money.usnews.com/money/personal-finance/mutual-funds/articles/2012/10/12/study-active-funds-consistently-fail-to-beat-benchmarks). That article details how 90% of professional mutual fund managers couldn't beat the performance of the S&P 500.
+* __Trading is a naturally adversarial, zero-sum game that favors those fittest to compete__. You could view 
 
 
 
