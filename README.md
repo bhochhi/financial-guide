@@ -11,6 +11,7 @@
 
 ###Basics of Investments
 * [What is bonds?](https://www.youtube.com/watch?v=0DT6WBwZJbw)
+* [Mutual Funds?](https://www.youtube.com/watch?v=MNEKXrCUV_0)
 
 
 ###Strike price:
