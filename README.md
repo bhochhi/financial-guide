@@ -6,7 +6,10 @@
 * Market obeys the [Pareto Principle](http://en.wikipedia.org/wiki/Pareto_principle), means the majority of the money is being moved by minority of participants(Wall Shreet). That means average investor doesn't matter much and they are at huge disadvantage against who trade full-time.
 * __Those people who actively trade are of course at the much higher risk of failing to beat the market than those who attempt to simply match it__. Based on the effort and time you spend, even if you beat the market, you have to beat by high percentage, else it doesn't worth it.
 * Do Asset allocation and Modern portfolio theory.
-* 
+*
+
+###Notes
+* __Know Price you pay vs Value you get.__ So have good error of margin. 
 
 
 ###Basics of Investments
