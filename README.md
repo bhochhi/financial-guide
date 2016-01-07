@@ -12,7 +12,7 @@
 ###Basics of Investments
 * [What is bonds?](https://www.youtube.com/watch?v=0DT6WBwZJbw)
 * [Mutual Funds?](https://www.youtube.com/watch?v=MNEKXrCUV_0)
-* [Value vs Price?](https://www.youtube.com/watch?v=5l9eXDfY6GI)
+* [The 3 Most Important Rules of Investing](https://www.youtube.com/watch?v=5l9eXDfY6GI)
 
 ###Strike price:
 1. the price fixed by the seller of a security after receiving bids in a tender offer, typically for a sale of bonds or a new stock market issue.
