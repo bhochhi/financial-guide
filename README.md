@@ -17,6 +17,10 @@
 * [Mutual Funds?](https://www.youtube.com/watch?v=MNEKXrCUV_0)
 * [The 3 Most Important Rules of Investing](https://www.youtube.com/watch?v=5l9eXDfY6GI)
 
+
+
+###Questions?
+* Devaluation of currency?
 ###Strike price:
 1. the price fixed by the seller of a security after receiving bids in a tender offer, typically for a sale of bonds or a new stock market issue.
 2. the price at which a put or call option can be exercised.
