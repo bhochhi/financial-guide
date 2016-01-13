@@ -16,7 +16,7 @@
 * [What is bonds?](https://www.youtube.com/watch?v=0DT6WBwZJbw)
 * [Mutual Funds?](https://www.youtube.com/watch?v=MNEKXrCUV_0)
 * [The 3 Most Important Rules of Investing](https://www.youtube.com/watch?v=5l9eXDfY6GI)
-
+* [Modern Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 
 ###Questions?
