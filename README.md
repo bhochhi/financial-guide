@@ -29,14 +29,28 @@
 1. p
 
 # Investment Strategies.
+Build portfolio with following in mind:
+1. Low Cost
+2. Tax efficiency
+3. Risk Tolorance, age appropriate
+4. Diversification
+5. Standard Perforance
 
-Tired of guessing, goofing and mistakes? Well need to strategies...
+Review the portfolio every 90 days to make sure those 5 characteristics are intact.
 
-1. Have some goals
-2. 
+1. Low Cost: make sure you are not paying too much fee or other maintainance charges.
+2. Tax efficiency, generally allocate your high paying dividends: like  bonds, comodities or stock into tax deffered account, while other stocks into normal brokeage account.
+3. Risk Tolorance: make sure you have cash,...
+4. Diversification:
+Here are core investments assets:
+1. Stock: domestic vs international
+
+
+
+
 
 
 
 # what is inflation and what is its importance?
 
-[princles](https://about.vanguard.com/what-sets-vanguard-apart/principles-for-investing-success/ )
+[principles](https://about.vanguard.com/what-sets-vanguard-apart/principles-for-investing-success/ )
